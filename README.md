@@ -1,3 +1,4 @@
 # git_test
 
-hello odin!!!s
+hello odin!!!
+just checking something 
